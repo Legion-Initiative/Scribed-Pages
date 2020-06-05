@@ -10,7 +10,7 @@ chardet==3.0.4
 Click==7.0
 cssselect2==0.2.1
 defusedxml==0.5.0
-Django==2.1.5
+Django==2.2.13
 django-ckeditor==5.6.1
 django-js-asset==1.1.0
 google-api-core==1.7.0
